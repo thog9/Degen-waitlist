@@ -16,7 +16,7 @@ This collection of Python scripts empowers you to interact seamlessly with the D
 
 ### Included Scripts
 
-✨ Register with Twitter OAuth (socialX.py)
+✨ Register with Twitter OAuth
 
 - ✅ Automatic login via Twitter OAuth2
 - ✅ Automatic tasks social
